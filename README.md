@@ -2,10 +2,6 @@
 <p align="center">
   I'm Alex, 18 years old software engineer. Big passion for programming and I see myself doing this for a long time. I love writing code, trying out new stuff and saving   time by automating boring tasks. It's even more fun when working with a team.
 </p>
-<h2 align="center">Why coding do you ask?</h2>
-<p align="center">
-  Wonder why i love to program? I love to program because it is pure creation; of fun, joy and 100% creativity. I like creating tools that save me time, but also others. I like creating software for computers, but most of all like creating new inovating fullstack websites in my free time to learn more and more.
-</p>
 <h2 align="center">My Skills</h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=fa8b00&center=true&width=1920&lines=React;Node.js;Express;Java" alt="Typing SVG" /></a>
 <p align="center">
