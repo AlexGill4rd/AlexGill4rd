@@ -8,6 +8,3 @@
     <img width="400" src="https://streak-stats.demolab.com?user=KingDevCode&theme=dark&hide_border=true" alt="Github stats">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=KingDevCode&show_icons=true&theme=dark&hide_border=true&icon_color=fa8b00" alt="Github stats">
 </p>
-<p align="center">
-  Sitting at a desk, staring into an illuminated computer screen for hours, a programmer's life doesn't seem to have much variety or glamor. Working in software has at times broken my heart and bruised my soul; but for one reason or another I haven't ever been able to give it up. Software development is by far the most technically challenging and intellectually stimulating work I've ever found. The fact that there remains so much to be discovered, with such massive potential returns on each new discovery, makes me optimistic that all the last projects will not be the last, or at least not anytime soon.
-</p>
