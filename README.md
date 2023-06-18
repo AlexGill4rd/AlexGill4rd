@@ -7,5 +7,5 @@
 <p align="center">
     <img width="400" src="https://streak-stats.demolab.com?user=KingDevCode&theme=dark&hide_border=true" alt="Github stats">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=KingDevCode&show_icons=true&theme=dark&hide_border=true&icon_color=fa8b00" alt="Github stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingDevCode" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingDevCode&theme=dark" />
 </p>
